@@ -1,6 +1,6 @@
-# GitHub + Microsoft Teams Integration
+ GitHub + Microsoft Teams Integration
 
-## Help Your Teams Communicate and Collaborate Better
+ Help Your Teams Communicate and Collaborate Better
 
 GitHub is the world's leading software development platform. [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) is one of the most popular communication platforms where modern development teams come together to build world-class products and services. With two of your most important workspaces connected, you'll stay updated on what's happening on GitHub without leaving Microsoft Teams.
 
@@ -8,7 +8,7 @@ Developers spend a considerable amount of time communicating with the team, moni
 
 GitHub integration for Microsoft Teams is now GA and is built and maintained by GitHub.
 
-## Table of Contents
+ Table of Contents
 - [Installing the GitHub integration for Teams](#installing-the-github-integration-for-teams)
   - [Requirements](#requirements)
   - [Installation](#installation)
@@ -260,7 +260,7 @@ You can update your installation's permissions by following these steps:
 4. Review the list of updated permissions, which should include "Read access to Discussions".
 5. Click the "Accept new permissions" button.
 
-🎉 Now that you've updated the permissions, you can unfrul discussion links!
+ Now that you've updated the permissions, you can unfrul discussion links!
 
 Note: We're working on making this process easier in the future with a prompt from the Teams integration itself – stay tuned!
 
